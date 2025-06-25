@@ -3,7 +3,7 @@ How to Download PC Matic Already Purchased?
 
 You've already purchased PC Matic—great decision! Now comes the next step: downloading and installing the product you've paid for. If you're wondering how to download PC Matic after you've completed your purchase, you're not alone. Many users expect an immediate install link or automatic setup, but depending on how and where you made the purchase, there might be a few steps involved.
 
-.. image:: https://pcmatic-hub.readthedocs.io/en/latest/_images/click-download.png
+.. image:: click-download.png
    :alt: Pc matic Already Purchased
    :width: 400px
    :align: center
